@@ -1,7 +1,7 @@
 # Repository of reproducible code for calculating Synchronization Factor
 The synchronization factor is used as a method for quantitative analysis of the synchrony of spermatogenesis.
 
-Published in Cells: https://www.mdpi.com/1528564
+Published in Cells:
 Condrea, D.; Souali-Crespo, S.; Féret, B.; Klopfenstein, M.; Faisan, S.; Mark, M.; Ghyselinck, N.B.; Vernet, N. Retinoic Acid Receptor Alpha Is Essential in Postnatal Sertoli Cells but Not in Germ Cells. Cells 2022, 11, 891. https://doi.org/10.3390/cells11050891
 
 # Mat and meth
